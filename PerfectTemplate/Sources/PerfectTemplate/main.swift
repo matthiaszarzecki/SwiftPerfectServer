@@ -29,6 +29,13 @@ routes.add(method: .get, uri: "/") {
     .completed()
 }
 
+routes.add(method: .get, uri: "/test") {
+  request, response in
+  response.setHeader(.contentType, value: "text/html")
+  response.appendBody(string: "<html><title>Hello, world 2!</title><body>Hello, world 2!</body></html>")
+    .completed()
+}
+
 do {
   // Launch the HTTP server.
   try HTTPServer.launch(
