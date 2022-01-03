@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.4 (swiftlang-1205.0.26.9 clang-1205.0.19.55)"
+options: "434b22029c0facd5005bb3b70bdee36e"
+build_time: [1641207311, 290423000]
+inputs:
+  "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/Sources/PerfectTemplate/main.swift": [1641207244, 43793619]

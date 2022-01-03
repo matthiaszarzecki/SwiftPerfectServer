@@ -1,0 +1,13 @@
+version: "Apple Swift version 5.4 (swiftlang-1205.0.26.9 clang-1205.0.19.55)"
+options: "7f7c230765bf8edba7bd2458adbbdf5a"
+build_time: [1641207296, 674627000]
+inputs:
+  "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/PerfectLib/Sources/PerfectLib/Bytes.swift": [1641207285, 817354843]
+  "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/PerfectLib/Sources/PerfectLib/Dir.swift": [1641207285, 817498786]
+  "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/PerfectLib/Sources/PerfectLib/File.swift": [1641207285, 817865566]
+  "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/PerfectLib/Sources/PerfectLib/JSONConvertible.swift": [1641207285, 818160857]
+  "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/PerfectLib/Sources/PerfectLib/Log.swift": [1641207285, 818350756]
+  "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/PerfectLib/Sources/PerfectLib/PerfectError.swift": [1641207285, 818502761]
+  "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/PerfectLib/Sources/PerfectLib/PerfectServer.swift": [1641207285, 818748173]
+  "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/PerfectLib/Sources/PerfectLib/SysProcess.swift": [1641207285, 818952610]
+  "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/PerfectLib/Sources/PerfectLib/Utilities.swift": [1641207285, 819314939]

@@ -1,0 +1,23 @@
+{
+  "": {
+    "swift-dependencies": "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectThread.build/master.swiftdeps"
+  },
+  "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-Thread/Sources/PerfectThread/Promise.swift": {
+    "dependencies": "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectThread.build/Promise.d",
+    "object": "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectThread.build/Promise.swift.o",
+    "swiftmodule": "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectThread.build/Promise~partial.swiftmodule",
+    "swift-dependencies": "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectThread.build/Promise.swiftdeps"
+  },
+  "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-Thread/Sources/PerfectThread/ThreadQueue.swift": {
+    "dependencies": "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectThread.build/ThreadQueue.d",
+    "object": "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectThread.build/ThreadQueue.swift.o",
+    "swiftmodule": "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectThread.build/ThreadQueue~partial.swiftmodule",
+    "swift-dependencies": "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectThread.build/ThreadQueue.swiftdeps"
+  },
+  "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-Thread/Sources/PerfectThread/Threading.swift": {
+    "dependencies": "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectThread.build/Threading.d",
+    "object": "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectThread.build/Threading.swift.o",
+    "swiftmodule": "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectThread.build/Threading~partial.swiftmodule",
+    "swift-dependencies": "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectThread.build/Threading.swiftdeps"
+  }
+}

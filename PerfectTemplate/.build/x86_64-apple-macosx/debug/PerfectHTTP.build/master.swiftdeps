@@ -1,0 +1,14 @@
+version: "Apple Swift version 5.4 (swiftlang-1205.0.26.9 clang-1205.0.19.55)"
+options: "2bcfe9dc7bd89e2ab7403921bc2c28fa"
+build_time: [1641207308, 728911000]
+inputs:
+  "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-HTTP/Sources/PerfectHTTP/HTTPFilter.swift": [1641207284, 867896580]
+  "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-HTTP/Sources/PerfectHTTP/HTTPHeaders.swift": [1641207284, 868070033]
+  "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-HTTP/Sources/PerfectHTTP/HTTPMethod.swift": [1641207284, 868211691]
+  "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-HTTP/Sources/PerfectHTTP/HTTPRequest.swift": [1641207284, 868524643]
+  "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-HTTP/Sources/PerfectHTTP/HTTPResponse.swift": [1641207284, 868821717]
+  "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-HTTP/Sources/PerfectHTTP/MimeReader.swift": [1641207284, 869033023]
+  "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-HTTP/Sources/PerfectHTTP/MimeType.swift": [1641207284, 869488079]
+  "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-HTTP/Sources/PerfectHTTP/Routing.swift": [1641207284, 869792812]
+  "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-HTTP/Sources/PerfectHTTP/StaticFileHandler.swift": [1641207284, 870043111]
+  "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-HTTP/Sources/PerfectHTTP/TypedRoutes.swift": [1641207284, 870280537]

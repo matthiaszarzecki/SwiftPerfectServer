@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.4 (swiftlang-1205.0.26.9 clang-1205.0.19.55)"
+options: "b03f8b1d5e5eca43f2c5403d894ba9f4"
+build_time: [1641207296, 670680000]
+inputs:
+  "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-Thread/Sources/PerfectThread/Promise.swift": [1641207285, 385477605]
+  "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-Thread/Sources/PerfectThread/ThreadQueue.swift": [1641207285, 385671614]
+  "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-Thread/Sources/PerfectThread/Threading.swift": [1641207285, 385838381]

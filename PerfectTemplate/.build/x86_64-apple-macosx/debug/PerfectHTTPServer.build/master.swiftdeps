@@ -1,0 +1,22 @@
+version: "Apple Swift version 5.4 (swiftlang-1205.0.26.9 clang-1205.0.19.55)"
+options: "ce584022f00277b94339c2fd8e8dc5c9"
+build_time: [1641207309, 777701000]
+inputs:
+  "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTP11/HTTP11Request.swift": [1641207285, 667494743]
+  "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTP11/HTTP11Response.swift": [1641207285, 667712711]
+  "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTP2/HPACK.swift": [1641207285, 668182107]
+  "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTP2/HTTP2.swift": [1641207285, 668428112]
+  "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTP2/HTTP2Client.swift": [1641207285, 668693119]
+  "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTP2/HTTP2Frame.swift": [1641207285, 668845511]
+  "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTP2/HTTP2FrameReader.swift": [1641207285, 668989303]
+  "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTP2/HTTP2FrameWriter.swift": [1641207285, 669116059]
+  "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTP2/HTTP2PrefaceValidator.swift": [1641207285, 669230702]
+  "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTP2/HTTP2Request.swift": [1641207285, 669486770]
+  "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTP2/HTTP2Response.swift": [1641207285, 669711991]
+  "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTP2/HTTP2Session.swift": [1641207285, 670054568]
+  "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTP2/HTTP2SessionSettings.swift": [1641207285, 670215124]
+  "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTPContentCompression.swift": [1641207285, 670383523]
+  "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTPMultiplexer.swift": [1641207285, 670546854]
+  "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTPServer.swift": [1641207285, 670780954]
+  "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTPServerEx.swift": [1641207285, 671024066]
+  "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTPServerExConfig.swift": [1641207285, 671219926]

@@ -1,0 +1,12 @@
+version: "Apple Swift version 5.4 (swiftlang-1205.0.26.9 clang-1205.0.19.55)"
+options: "bda1779a8db0fa155a3fcafabf186ae9"
+build_time: [1641207305, 668642000]
+inputs:
+  "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-Crypto/Sources/PerfectCrypto/Algorithms.swift": [1641207285, 528092483]
+  "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-Crypto/Sources/PerfectCrypto/ByteIO.swift": [1641207285, 528265865]
+  "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-Crypto/Sources/PerfectCrypto/Extensions.swift": [1641207285, 528548304]
+  "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-Crypto/Sources/PerfectCrypto/JWK.swift": [1641207285, 528775175]
+  "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-Crypto/Sources/PerfectCrypto/JWT.swift": [1641207285, 528886014]
+  "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-Crypto/Sources/PerfectCrypto/Keys.swift": [1641207285, 529007132]
+  "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-Crypto/Sources/PerfectCrypto/OpenSSLInternal.swift": [1641207285, 529329696]
+  "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-Crypto/Sources/PerfectCrypto/PerfectCrypto.swift": [1641207285, 529494309]

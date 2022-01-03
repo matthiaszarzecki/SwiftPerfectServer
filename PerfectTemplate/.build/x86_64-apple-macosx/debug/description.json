@@ -1,0 +1,2016 @@
+{
+  "builtTestProducts" : [
+
+  ],
+  "copyCommands" : {
+
+  },
+  "swiftCommands" : {
+    "C.PerfectCrypto-debug.module" : {
+      "executable" : "/Applications/Xcode12.5.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "importPath" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-Crypto/Sources/PerfectCrypto/Algorithms.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-Crypto/Sources/PerfectCrypto/ByteIO.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-Crypto/Sources/PerfectCrypto/Extensions.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-Crypto/Sources/PerfectCrypto/JWK.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-Crypto/Sources/PerfectCrypto/JWT.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-Crypto/Sources/PerfectCrypto/Keys.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-Crypto/Sources/PerfectCrypto/OpenSSLInternal.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-Crypto/Sources/PerfectCrypto/PerfectCrypto.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectLib.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectThread.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/a_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/aes_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/ameth_lib.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/asn1_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/asn_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/b_dump.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/b_print.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/b_sock.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/bf_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/bio_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/bn_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/bss_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/buf_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/buffer.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/by_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/c_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/camellia.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/cbc128.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/cbc3_enc.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/cbc_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/ccm128.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/cfb128.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/cfb64ede.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/cfb64enc.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/cfb_enc.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/cm_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/cmac.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/cmll_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/cms_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/comp_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/conf_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/cpt_err.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/cryptlib.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/ctr128.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/cversion.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/d1_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/d1_lib.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/d2i_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/des_enc.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/des_old.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/des_old2.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/dh_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/digest.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/dsa_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/dso_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/e_4758cca.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/e_4758cca_err.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/e_aep.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/e_aep_err.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/e_aes.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/e_aes_cbc_hmac_sha1.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/e_aes_cbc_hmac_sha256.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/e_atalla.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/e_atalla_err.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/e_bf.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/e_camellia.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/e_capi.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/e_capi_err.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/e_cast.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/e_chil.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/e_chil_err.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/e_cswift.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/e_cswift_err.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/e_des.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/e_des3.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/e_gmp.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/e_gmp_err.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/e_gost_err.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/e_idea.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/e_null.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/e_nuron.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/e_nuron_err.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/e_old.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/e_padlock.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/e_rc2.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/e_rc4.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/e_rc4_hmac_md5.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/e_rc5.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/e_seed.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/e_sureware.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/e_sureware_err.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/e_ubsec.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/e_ubsec_err.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/e_xcbc_d.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/ebcdic.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/ec2_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/ec_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/ecb3_enc.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/ecb_enc.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/ech_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/eck_prn.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/ecp_mont.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/ecp_nist.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/ecp_nistp224.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/ecp_nistp256.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/ecp_nistp521.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/ecp_nistputil.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/ecp_oct.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/ecp_smpl.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/ecs_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/ede_cbcm_enc.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/enc_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/encode.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/eng_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/err.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/err_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/evp_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/ex_data.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/f_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/fcrypt.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/fcrypt_b.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/fips_ers.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/gcm128.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/getenv.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/gost2001.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/gost2001_keyx.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/gost89.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/gost94_keyx.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/gost_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/gosthash.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/hm_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/hmac.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/i2d_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/i_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/krb5_asn.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/kssl.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/lh_stats.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/lhash.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/m_dss.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/m_dss1.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/m_ecdsa.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/m_md2.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/m_md4.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/m_md5.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/m_mdc2.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/m_null.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/m_ripemd.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/m_sha.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/m_sha1.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/m_sigver.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/m_wp.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/md4_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/md5_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/md_rand.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/mdc2_one.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/mdc2dgst.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/mem.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/mem_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/n_pkey.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/names.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/nsseq.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/o_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/obj_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/ocsp_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/ofb128.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/ofb64ede.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/ofb64enc.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/ofb_enc.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/openbsd_hw.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/p12_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/p5_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/p8_pkey.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/p_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/pcbc_enc.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/pcy_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/pem_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/pk12err.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/pk7_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/pkcs7err.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/pmeth_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/pqueue.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/pvkfmt.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/qud_cksm.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/rand_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/randfile.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/rc2_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/rc2cfb64.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/rc2ofb64.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/rc4_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/read2pwd.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/rmd_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/rpc_enc.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/rsa_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/rsaz_exp.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/s23_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/s2_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/s3_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/seed.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/seed_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/set_key.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/sha1_one.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/sha1dgst.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/sha256.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/sha512.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/sha_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/srp_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/ssl_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/stack.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/str2key.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/t1_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/t_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/tasn_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/tb_asnmth.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/tb_cipher.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/tb_dh.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/tb_digest.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/tb_dsa.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/tb_ecdh.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/tb_ecdsa.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/tb_pkmeth.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/tb_rand.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/tb_rsa.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/tb_store.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/th-lock.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/tls_srp.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/ts_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/txt_db.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/ui_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/uid.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/v3_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/v3_lib.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/v3err.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/wp_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/wrap128.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/x509_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/x509cset.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/x509name.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/x509rset.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/x509spki.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/x509type.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/x_.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/xcbc_enc.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/COpenSSL.build/xts128.c.o"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "PerfectCrypto",
+      "moduleOutputPath" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectCrypto.swiftmodule",
+      "objects" : [
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectCrypto.build/Algorithms.swift.o",
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectCrypto.build/ByteIO.swift.o",
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectCrypto.build/Extensions.swift.o",
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectCrypto.build/JWK.swift.o",
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectCrypto.build/JWT.swift.o",
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectCrypto.build/Keys.swift.o",
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectCrypto.build/OpenSSLInternal.swift.o",
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectCrypto.build/PerfectCrypto.swift.o"
+      ],
+      "otherArgs" : [
+        "-target",
+        "x86_64-apple-macosx10.10",
+        "-swift-version",
+        "4",
+        "-enable-batch-mode",
+        "-index-store-path",
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/index/store",
+        "-sdk",
+        "/Applications/Xcode12.5.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk",
+        "-F",
+        "/Applications/Xcode12.5.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode12.5.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode12.5.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-Onone",
+        "-enable-testing",
+        "-g",
+        "-j12",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-Xcc",
+        "-fmodule-map-file=/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-COpenSSL/COpenSSL/include/module.modulemap",
+        "-Xcc",
+        "-I",
+        "-Xcc",
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-COpenSSL/COpenSSL/include",
+        "-module-cache-path",
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectCrypto.build/PerfectCrypto-Swift.h",
+        "-color-diagnostics"
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectCrypto.build/Algorithms.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectCrypto.build/ByteIO.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectCrypto.build/Extensions.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectCrypto.build/JWK.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectCrypto.build/JWT.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectCrypto.build/Keys.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectCrypto.build/OpenSSLInternal.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectCrypto.build/PerfectCrypto.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectCrypto.swiftmodule"
+        }
+      ],
+      "sources" : [
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-Crypto/Sources/PerfectCrypto/Algorithms.swift",
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-Crypto/Sources/PerfectCrypto/ByteIO.swift",
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-Crypto/Sources/PerfectCrypto/Extensions.swift",
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-Crypto/Sources/PerfectCrypto/JWK.swift",
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-Crypto/Sources/PerfectCrypto/JWT.swift",
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-Crypto/Sources/PerfectCrypto/Keys.swift",
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-Crypto/Sources/PerfectCrypto/OpenSSLInternal.swift",
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-Crypto/Sources/PerfectCrypto/PerfectCrypto.swift"
+      ],
+      "tempsPath" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectCrypto.build",
+      "WMO" : false
+    },
+    "C.PerfectHTTP-debug.module" : {
+      "executable" : "/Applications/Xcode12.5.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "importPath" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-HTTP/Sources/PerfectHTTP/HTTPFilter.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-HTTP/Sources/PerfectHTTP/HTTPHeaders.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-HTTP/Sources/PerfectHTTP/HTTPMethod.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-HTTP/Sources/PerfectHTTP/HTTPRequest.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-HTTP/Sources/PerfectHTTP/HTTPResponse.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-HTTP/Sources/PerfectHTTP/MimeReader.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-HTTP/Sources/PerfectHTTP/MimeType.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-HTTP/Sources/PerfectHTTP/Routing.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-HTTP/Sources/PerfectHTTP/StaticFileHandler.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-HTTP/Sources/PerfectHTTP/TypedRoutes.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectLib.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectNet.swiftmodule"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "PerfectHTTP",
+      "moduleOutputPath" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectHTTP.swiftmodule",
+      "objects" : [
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectHTTP.build/HTTPFilter.swift.o",
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectHTTP.build/HTTPHeaders.swift.o",
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectHTTP.build/HTTPMethod.swift.o",
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectHTTP.build/HTTPRequest.swift.o",
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectHTTP.build/HTTPResponse.swift.o",
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectHTTP.build/MimeReader.swift.o",
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectHTTP.build/MimeType.swift.o",
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectHTTP.build/Routing.swift.o",
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectHTTP.build/StaticFileHandler.swift.o",
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectHTTP.build/TypedRoutes.swift.o"
+      ],
+      "otherArgs" : [
+        "-target",
+        "x86_64-apple-macosx10.10",
+        "-swift-version",
+        "4",
+        "-enable-batch-mode",
+        "-index-store-path",
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/index/store",
+        "-sdk",
+        "/Applications/Xcode12.5.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk",
+        "-F",
+        "/Applications/Xcode12.5.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode12.5.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode12.5.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-Onone",
+        "-enable-testing",
+        "-g",
+        "-j12",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-Xcc",
+        "-fmodule-map-file=/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-COpenSSL/COpenSSL/include/module.modulemap",
+        "-Xcc",
+        "-I",
+        "-Xcc",
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-COpenSSL/COpenSSL/include",
+        "-module-cache-path",
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectHTTP.build/PerfectHTTP-Swift.h",
+        "-color-diagnostics"
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectHTTP.build/HTTPFilter.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectHTTP.build/HTTPHeaders.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectHTTP.build/HTTPMethod.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectHTTP.build/HTTPRequest.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectHTTP.build/HTTPResponse.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectHTTP.build/MimeReader.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectHTTP.build/MimeType.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectHTTP.build/Routing.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectHTTP.build/StaticFileHandler.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectHTTP.build/TypedRoutes.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectHTTP.swiftmodule"
+        }
+      ],
+      "sources" : [
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-HTTP/Sources/PerfectHTTP/HTTPFilter.swift",
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-HTTP/Sources/PerfectHTTP/HTTPHeaders.swift",
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-HTTP/Sources/PerfectHTTP/HTTPMethod.swift",
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-HTTP/Sources/PerfectHTTP/HTTPRequest.swift",
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-HTTP/Sources/PerfectHTTP/HTTPResponse.swift",
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-HTTP/Sources/PerfectHTTP/MimeReader.swift",
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-HTTP/Sources/PerfectHTTP/MimeType.swift",
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-HTTP/Sources/PerfectHTTP/Routing.swift",
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-HTTP/Sources/PerfectHTTP/StaticFileHandler.swift",
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-HTTP/Sources/PerfectHTTP/TypedRoutes.swift"
+      ],
+      "tempsPath" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectHTTP.build",
+      "WMO" : false
+    },
+    "C.PerfectHTTPServer-debug.module" : {
+      "executable" : "/Applications/Xcode12.5.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "importPath" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTP11/HTTP11Request.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTP11/HTTP11Response.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTP2/HPACK.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTP2/HTTP2.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTP2/HTTP2Client.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTP2/HTTP2Frame.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTP2/HTTP2FrameReader.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTP2/HTTP2FrameWriter.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTP2/HTTP2PrefaceValidator.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTP2/HTTP2Request.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTP2/HTTP2Response.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTP2/HTTP2Session.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTP2/HTTP2SessionSettings.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTPContentCompression.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTPMultiplexer.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTPServer.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTPServerEx.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTPServerExConfig.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectCHTTPParser.build/http_parser.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectNet.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectHTTP.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectCZlib.build/adler32.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectCZlib.build/compress.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectCZlib.build/crc32.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectCZlib.build/deflate.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectCZlib.build/gzclose.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectCZlib.build/gzlib.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectCZlib.build/gzread.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectCZlib.build/gzwrite.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectCZlib.build/infback.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectCZlib.build/inffast.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectCZlib.build/inflate.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectCZlib.build/inftrees.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectCZlib.build/trees.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectCZlib.build/uncompr.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectCZlib.build/zutil.c.o"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "PerfectHTTPServer",
+      "moduleOutputPath" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectHTTPServer.swiftmodule",
+      "objects" : [
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectHTTPServer.build/HTTP11/HTTP11Request.swift.o",
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectHTTPServer.build/HTTP11/HTTP11Response.swift.o",
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectHTTPServer.build/HTTP2/HPACK.swift.o",
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectHTTPServer.build/HTTP2/HTTP2.swift.o",
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectHTTPServer.build/HTTP2/HTTP2Client.swift.o",
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectHTTPServer.build/HTTP2/HTTP2Frame.swift.o",
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectHTTPServer.build/HTTP2/HTTP2FrameReader.swift.o",
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectHTTPServer.build/HTTP2/HTTP2FrameWriter.swift.o",
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectHTTPServer.build/HTTP2/HTTP2PrefaceValidator.swift.o",
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectHTTPServer.build/HTTP2/HTTP2Request.swift.o",
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectHTTPServer.build/HTTP2/HTTP2Response.swift.o",
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectHTTPServer.build/HTTP2/HTTP2Session.swift.o",
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectHTTPServer.build/HTTP2/HTTP2SessionSettings.swift.o",
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectHTTPServer.build/HTTPContentCompression.swift.o",
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectHTTPServer.build/HTTPMultiplexer.swift.o",
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectHTTPServer.build/HTTPServer.swift.o",
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectHTTPServer.build/HTTPServerEx.swift.o",
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectHTTPServer.build/HTTPServerExConfig.swift.o"
+      ],
+      "otherArgs" : [
+        "-target",
+        "x86_64-apple-macosx10.10",
+        "-swift-version",
+        "4",
+        "-enable-batch-mode",
+        "-index-store-path",
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/index/store",
+        "-sdk",
+        "/Applications/Xcode12.5.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk",
+        "-F",
+        "/Applications/Xcode12.5.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode12.5.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode12.5.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-Onone",
+        "-enable-testing",
+        "-g",
+        "-j12",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-Xcc",
+        "-fmodule-map-file=/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-CZlib-src/PerfectCZlib/include/module.modulemap",
+        "-Xcc",
+        "-I",
+        "-Xcc",
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-CZlib-src/PerfectCZlib/include",
+        "-Xcc",
+        "-fmodule-map-file=/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-COpenSSL/COpenSSL/include/module.modulemap",
+        "-Xcc",
+        "-I",
+        "-Xcc",
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-COpenSSL/COpenSSL/include",
+        "-Xcc",
+        "-fmodule-map-file=/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-HTTPServer/Sources/PerfectCHTTPParser/include/module.modulemap",
+        "-Xcc",
+        "-I",
+        "-Xcc",
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-HTTPServer/Sources/PerfectCHTTPParser/include",
+        "-module-cache-path",
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectHTTPServer.build/PerfectHTTPServer-Swift.h",
+        "-color-diagnostics"
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectHTTPServer.build/HTTP11/HTTP11Request.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectHTTPServer.build/HTTP11/HTTP11Response.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectHTTPServer.build/HTTP2/HPACK.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectHTTPServer.build/HTTP2/HTTP2.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectHTTPServer.build/HTTP2/HTTP2Client.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectHTTPServer.build/HTTP2/HTTP2Frame.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectHTTPServer.build/HTTP2/HTTP2FrameReader.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectHTTPServer.build/HTTP2/HTTP2FrameWriter.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectHTTPServer.build/HTTP2/HTTP2PrefaceValidator.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectHTTPServer.build/HTTP2/HTTP2Request.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectHTTPServer.build/HTTP2/HTTP2Response.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectHTTPServer.build/HTTP2/HTTP2Session.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectHTTPServer.build/HTTP2/HTTP2SessionSettings.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectHTTPServer.build/HTTPContentCompression.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectHTTPServer.build/HTTPMultiplexer.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectHTTPServer.build/HTTPServer.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectHTTPServer.build/HTTPServerEx.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectHTTPServer.build/HTTPServerExConfig.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectHTTPServer.swiftmodule"
+        }
+      ],
+      "sources" : [
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTP11/HTTP11Request.swift",
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTP11/HTTP11Response.swift",
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTP2/HPACK.swift",
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTP2/HTTP2.swift",
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTP2/HTTP2Client.swift",
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTP2/HTTP2Frame.swift",
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTP2/HTTP2FrameReader.swift",
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTP2/HTTP2FrameWriter.swift",
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTP2/HTTP2PrefaceValidator.swift",
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTP2/HTTP2Request.swift",
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTP2/HTTP2Response.swift",
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTP2/HTTP2Session.swift",
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTP2/HTTP2SessionSettings.swift",
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTPContentCompression.swift",
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTPMultiplexer.swift",
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTPServer.swift",
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTPServerEx.swift",
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTPServerExConfig.swift"
+      ],
+      "tempsPath" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectHTTPServer.build",
+      "WMO" : false
+    },
+    "C.PerfectLib-debug.module" : {
+      "executable" : "/Applications/Xcode12.5.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "importPath" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/PerfectLib/Sources/PerfectLib/Bytes.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/PerfectLib/Sources/PerfectLib/Dir.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/PerfectLib/Sources/PerfectLib/File.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/PerfectLib/Sources/PerfectLib/JSONConvertible.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/PerfectLib/Sources/PerfectLib/Log.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/PerfectLib/Sources/PerfectLib/PerfectError.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/PerfectLib/Sources/PerfectLib/PerfectServer.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/PerfectLib/Sources/PerfectLib/SysProcess.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/PerfectLib/Sources/PerfectLib/Utilities.swift"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "PerfectLib",
+      "moduleOutputPath" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectLib.swiftmodule",
+      "objects" : [
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectLib.build/Bytes.swift.o",
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectLib.build/Dir.swift.o",
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectLib.build/File.swift.o",
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectLib.build/JSONConvertible.swift.o",
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectLib.build/Log.swift.o",
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectLib.build/PerfectError.swift.o",
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectLib.build/PerfectServer.swift.o",
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectLib.build/SysProcess.swift.o",
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectLib.build/Utilities.swift.o"
+      ],
+      "otherArgs" : [
+        "-target",
+        "x86_64-apple-macosx10.10",
+        "-swift-version",
+        "4",
+        "-enable-batch-mode",
+        "-index-store-path",
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/index/store",
+        "-sdk",
+        "/Applications/Xcode12.5.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk",
+        "-F",
+        "/Applications/Xcode12.5.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode12.5.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode12.5.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-Onone",
+        "-enable-testing",
+        "-g",
+        "-j12",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-module-cache-path",
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectLib.build/PerfectLib-Swift.h",
+        "-color-diagnostics"
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectLib.build/Bytes.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectLib.build/Dir.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectLib.build/File.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectLib.build/JSONConvertible.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectLib.build/Log.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectLib.build/PerfectError.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectLib.build/PerfectServer.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectLib.build/SysProcess.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectLib.build/Utilities.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectLib.swiftmodule"
+        }
+      ],
+      "sources" : [
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/PerfectLib/Sources/PerfectLib/Bytes.swift",
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/PerfectLib/Sources/PerfectLib/Dir.swift",
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/PerfectLib/Sources/PerfectLib/File.swift",
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/PerfectLib/Sources/PerfectLib/JSONConvertible.swift",
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/PerfectLib/Sources/PerfectLib/Log.swift",
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/PerfectLib/Sources/PerfectLib/PerfectError.swift",
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/PerfectLib/Sources/PerfectLib/PerfectServer.swift",
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/PerfectLib/Sources/PerfectLib/SysProcess.swift",
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/PerfectLib/Sources/PerfectLib/Utilities.swift"
+      ],
+      "tempsPath" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectLib.build",
+      "WMO" : false
+    },
+    "C.PerfectNet-debug.module" : {
+      "executable" : "/Applications/Xcode12.5.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "importPath" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-Net/Sources/PerfectNet/Net.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-Net/Sources/PerfectNet/NetAddress.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-Net/Sources/PerfectNet/NetEvent.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-Net/Sources/PerfectNet/NetNamedPipe.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-Net/Sources/PerfectNet/NetTCP.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-Net/Sources/PerfectNet/NetTCPSSL.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-Net/Sources/PerfectNet/NetUDP.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectCrypto.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectThread.swiftmodule"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "PerfectNet",
+      "moduleOutputPath" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectNet.swiftmodule",
+      "objects" : [
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectNet.build/Net.swift.o",
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectNet.build/NetAddress.swift.o",
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectNet.build/NetEvent.swift.o",
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectNet.build/NetNamedPipe.swift.o",
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectNet.build/NetTCP.swift.o",
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectNet.build/NetTCPSSL.swift.o",
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectNet.build/NetUDP.swift.o"
+      ],
+      "otherArgs" : [
+        "-target",
+        "x86_64-apple-macosx10.10",
+        "-swift-version",
+        "4",
+        "-enable-batch-mode",
+        "-index-store-path",
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/index/store",
+        "-sdk",
+        "/Applications/Xcode12.5.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk",
+        "-F",
+        "/Applications/Xcode12.5.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode12.5.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode12.5.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-Onone",
+        "-enable-testing",
+        "-g",
+        "-j12",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-Xcc",
+        "-fmodule-map-file=/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-COpenSSL/COpenSSL/include/module.modulemap",
+        "-Xcc",
+        "-I",
+        "-Xcc",
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-COpenSSL/COpenSSL/include",
+        "-module-cache-path",
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectNet.build/PerfectNet-Swift.h",
+        "-color-diagnostics"
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectNet.build/Net.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectNet.build/NetAddress.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectNet.build/NetEvent.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectNet.build/NetNamedPipe.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectNet.build/NetTCP.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectNet.build/NetTCPSSL.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectNet.build/NetUDP.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectNet.swiftmodule"
+        }
+      ],
+      "sources" : [
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-Net/Sources/PerfectNet/Net.swift",
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-Net/Sources/PerfectNet/NetAddress.swift",
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-Net/Sources/PerfectNet/NetEvent.swift",
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-Net/Sources/PerfectNet/NetNamedPipe.swift",
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-Net/Sources/PerfectNet/NetTCP.swift",
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-Net/Sources/PerfectNet/NetTCPSSL.swift",
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-Net/Sources/PerfectNet/NetUDP.swift"
+      ],
+      "tempsPath" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectNet.build",
+      "WMO" : false
+    },
+    "C.PerfectTemplate-debug.module" : {
+      "executable" : "/Applications/Xcode12.5.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "importPath" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/Sources/PerfectTemplate/main.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectHTTPServer.swiftmodule"
+        }
+      ],
+      "isLibrary" : false,
+      "moduleName" : "PerfectTemplate",
+      "moduleOutputPath" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectTemplate.build/PerfectTemplate.swiftmodule",
+      "objects" : [
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectTemplate.build/main.swift.o"
+      ],
+      "otherArgs" : [
+        "-target",
+        "x86_64-apple-macosx10.10",
+        "-swift-version",
+        "4.2",
+        "-enable-batch-mode",
+        "-index-store-path",
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/index/store",
+        "-sdk",
+        "/Applications/Xcode12.5.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk",
+        "-F",
+        "/Applications/Xcode12.5.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode12.5.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode12.5.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-Onone",
+        "-enable-testing",
+        "-g",
+        "-j12",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-Xcc",
+        "-fmodule-map-file=/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-CZlib-src/PerfectCZlib/include/module.modulemap",
+        "-Xcc",
+        "-I",
+        "-Xcc",
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-CZlib-src/PerfectCZlib/include",
+        "-Xcc",
+        "-fmodule-map-file=/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-COpenSSL/COpenSSL/include/module.modulemap",
+        "-Xcc",
+        "-I",
+        "-Xcc",
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-COpenSSL/COpenSSL/include",
+        "-Xcc",
+        "-fmodule-map-file=/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-HTTPServer/Sources/PerfectCHTTPParser/include/module.modulemap",
+        "-Xcc",
+        "-I",
+        "-Xcc",
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-HTTPServer/Sources/PerfectCHTTPParser/include",
+        "-module-cache-path",
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-color-diagnostics"
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectTemplate.build/main.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectTemplate.build/PerfectTemplate.swiftmodule"
+        }
+      ],
+      "sources" : [
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/Sources/PerfectTemplate/main.swift"
+      ],
+      "tempsPath" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectTemplate.build",
+      "WMO" : false
+    },
+    "C.PerfectThread-debug.module" : {
+      "executable" : "/Applications/Xcode12.5.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "importPath" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-Thread/Sources/PerfectThread/Promise.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-Thread/Sources/PerfectThread/ThreadQueue.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-Thread/Sources/PerfectThread/Threading.swift"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "PerfectThread",
+      "moduleOutputPath" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectThread.swiftmodule",
+      "objects" : [
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectThread.build/Promise.swift.o",
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectThread.build/ThreadQueue.swift.o",
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectThread.build/Threading.swift.o"
+      ],
+      "otherArgs" : [
+        "-target",
+        "x86_64-apple-macosx10.10",
+        "-swift-version",
+        "4",
+        "-enable-batch-mode",
+        "-index-store-path",
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/index/store",
+        "-sdk",
+        "/Applications/Xcode12.5.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk",
+        "-F",
+        "/Applications/Xcode12.5.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode12.5.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode12.5.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-Onone",
+        "-enable-testing",
+        "-g",
+        "-j12",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-module-cache-path",
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectThread.build/PerfectThread-Swift.h",
+        "-color-diagnostics"
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectThread.build/Promise.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectThread.build/ThreadQueue.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectThread.build/Threading.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectThread.swiftmodule"
+        }
+      ],
+      "sources" : [
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-Thread/Sources/PerfectThread/Promise.swift",
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-Thread/Sources/PerfectThread/ThreadQueue.swift",
+        "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-Thread/Sources/PerfectThread/Threading.swift"
+      ],
+      "tempsPath" : "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectThread.build",
+      "WMO" : false
+    }
+  },
+  "swiftFrontendCommands" : {
+
+  },
+  "testDiscoveryCommands" : {
+
+  }
+}

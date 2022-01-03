@@ -1,0 +1,11 @@
+version: "Apple Swift version 5.4 (swiftlang-1205.0.26.9 clang-1205.0.19.55)"
+options: "e5d1993d68a0ed91d802493a8075a6d3"
+build_time: [1641207306, 809084000]
+inputs:
+  "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-Net/Sources/PerfectNet/Net.swift": [1641207286, 160667695]
+  "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-Net/Sources/PerfectNet/NetAddress.swift": [1641207286, 160814427]
+  "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-Net/Sources/PerfectNet/NetEvent.swift": [1641207286, 161075580]
+  "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-Net/Sources/PerfectNet/NetNamedPipe.swift": [1641207286, 161345725]
+  "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-Net/Sources/PerfectNet/NetTCP.swift": [1641207286, 161538585]
+  "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-Net/Sources/PerfectNet/NetTCPSSL.swift": [1641207286, 161858973]
+  "/Users/matthiaszarzecki/projects/ios/SwiftPerfectServer/PerfectTemplate/.build/checkouts/Perfect-Net/Sources/PerfectNet/NetUDP.swift": [1641207286, 161996613]
