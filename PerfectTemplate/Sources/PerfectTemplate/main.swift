@@ -51,6 +51,7 @@ try HTTPServer.launch(
   port: 8181,
   routes: routes,
   responseFilters: [
-    (PerfectHTTPServer.HTTPFilter.contentCompression(data: [:]), HTTPFilterPriority.high)]
+    (PerfectHTTPServer.HTTPFilter.contentCompression(data: [:]), HTTPFilterPriority.high)
+  ]
 )
 
