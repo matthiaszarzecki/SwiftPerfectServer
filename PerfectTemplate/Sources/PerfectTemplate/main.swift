@@ -22,24 +22,44 @@ import PerfectHTTPServer
 
 // Register your own routes and handlers
 var routes = Routes()
-routes.add(method: .get, uri: "/") {
-  request, response in
+
+routes.add(method: .get, uri: "/") { request, response in
   response.setHeader(.contentType, value: "text/html")
   response.appendBody(string: "<html><title>Hello, world!</title><body>Hello, world!</body></html>")
     .completed()
 }
 
-routes.add(method: .get, uri: "/test") {
-  request, response in
+routes.add(method: .get, uri: "/test") { request, response in
   response.setHeader(.contentType, value: "text/html")
   response.appendBody(string: "<html><title>Hello, world 2!</title><body>Hello, world 2!</body></html>")
     .completed()
 }
 
+routes.add(method: .get, uri: "/json") { request, response in
+  response.setHeader(.contentType, value: "application/json")
+  let jsonResponse: [String: Any] = [
+    "isServeAlive": true,
+    "a": 1,
+    "b": 0.1,
+    "c": true,
+    "d": [2, 4, 5, 7, 8]
+  ]
+
+  do {
+    try response.setBody(json: jsonResponse)
+  } catch {
+  }
+  response.completed()
+}
+
+
+
+
+// Launch the HTTP server.
 do {
-  // Launch the HTTP server.
   try HTTPServer.launch(
-    .server(name: "localhost", port: 8182, routes: routes))
+    .server(name: "localhost", port: 8182, routes: routes)
+  )
 } catch {
   fatalError("\(error)") // fatal error launching one of the servers
 }
