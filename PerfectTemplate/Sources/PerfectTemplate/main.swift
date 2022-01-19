@@ -16,7 +16,7 @@ private func addBasicRoute() {
     response.appendBody(
       string: "<html><title>Hello, world!</title><body>Hello, world!</body></html>"
     )
-      .completed()
+    .completed()
   }
 }
 
@@ -27,7 +27,7 @@ private func addSecondScreenRoute() {
     response.appendBody(
       string: "<html><title>Hello, world 2!</title><body>Hello, world 2!</body></html>"
     )
-      .completed()
+    .completed()
   }
 }
 
@@ -36,7 +36,7 @@ private func addJsonRoute() {
   routes.add(method: .get, uri: "/json") { request, response in
     response.setHeader(.contentType, value: "application/json")
     let jsonResponse: [String: Any] = [
-      "isServeAlive": true,
+      "isServerAlive": true,
       "a": 1,
       "b": 0.1,
       "c": true,
